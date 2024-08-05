@@ -4,6 +4,8 @@ This is a SCRUM Sprint Planning App that allows you to generate a fully-function
 
 Sample Excel sheets are provided in the /excel folder above.
 
+<img width="951" alt="lending" src="https://github.com/user-attachments/assets/e23e3aef-1a59-4bb3-b654-629f97e87529">
+
 **Installation:** 
 
 1) To start, install dependencies with npm install and setup the .env with you OPENAI API key.
