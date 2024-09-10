@@ -4,7 +4,9 @@ This is a SCRUM Sprint Planning App that allows you to generate a fully-function
 
 Sample Excel sheets are provided in the /excel folder above.
 
-<img width="951" alt="lending" src="https://github.com/user-attachments/assets/e23e3aef-1a59-4bb3-b654-629f97e87529">
+
+<img width="1065" alt="Screen Shot 2024-09-10 at 12 33 29 PM" src="https://github.com/user-attachments/assets/e4688aa6-a54f-4f9a-807e-562955ccbde7">
+
 
 **Installation:** 
 
